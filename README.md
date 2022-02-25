@@ -6,6 +6,7 @@ Convolutional models with Data Augmentation, Early Stopping and visualization.
 CIFAR-10 dataset is provided by Keras directly.
 The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
 Classes in dataset: ["airplane", "automobile", "bird", "cat", "deer", "dog", "frog", "horse", "ship", "truck"]
+More information can be found here: https://www.cs.toronto.edu/~kriz/cifar.html
 
 ### Programming language
 Python
